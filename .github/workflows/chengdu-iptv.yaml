@@ -34,13 +34,13 @@ jobs:
 
       - name: Build home
         run: |
-          python3 ./script/home.py
+          python3 ./script/chengdu.py
 
 
       - name: Commit
         run: |
-          git config --global user.name 'heifeng'
-          git config --global user.email '0987363@github.com'
+          git config --global user.name 'lircal'
+          git config --global user.email 'lircal@163.com'
           git add .
           git commit -am "Automated build"
           git push
