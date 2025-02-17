@@ -180,7 +180,7 @@ for tr in soup.find_all(name='tr'):
 
     setID(int(td[0].string))
 
-    name = name.replace('超高清', '').replace('高清', '').replace('-', '').strip()
+    name = name.replace('超高清', '').replace('高清', '').replace('-', '').replace('少儿', '14').replace('＋', '+').replace('海南', '旅游').strip()
 
     group = filterCategory(name)
     icon = findIcon(mIcons, name)
