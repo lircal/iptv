@@ -1,4 +1,4 @@
-#EXTM3U name="成都电信IPTV - 2025-02-17T02:50:07Z" url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
+#EXTM3U name="成都电信IPTV - 2025-02-17T11:57:51Z" url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-id="1" tvg-name="CCTV1" group-title="CCTV",CCTV1
 http://192.168.6.1:10100/rtp/239.93.0.58:5140
@@ -26,7 +26,7 @@ http://192.168.6.1:10100/rtp/239.93.0.102:5140
 http://192.168.6.1:10100/rtp/239.93.1.30:8124
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-id="13" tvg-name="CCTV13" group-title="CCTV",CCTV13
 http://192.168.6.1:10100/rtp/239.93.0.66:5140
-#EXTINF:-1 tvg-logo="" tvg-id="14" tvg-name="CCTV少儿" group-title="CCTV",CCTV少儿
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-id="14" tvg-name="CCTV14" group-title="CCTV",CCTV14
 http://192.168.6.1:10100/rtp/239.93.1.29:6000
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-id="15" tvg-name="CCTV15" group-title="CCTV",CCTV15
 http://192.168.6.1:10100/rtp/239.93.0.103:5140
@@ -36,7 +36,7 @@ http://192.168.6.1:10100/rtp/239.93.0.92:5140
 http://192.168.6.1:10100/rtp/239.93.42.42:5140
 #EXTINF:-1 tvg-logo="" tvg-id="21" tvg-name="CGTN英语" group-title="CCTV",CGTN英语
 http://192.168.6.1:10100/rtp/239.93.0.104:5140
-#EXTINF:-1 tvg-logo="" tvg-id="22" tvg-name="CCTV5＋" group-title="CCTV",CCTV5＋
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="22" tvg-name="CCTV5+" group-title="CCTV",CCTV5+
 http://192.168.6.1:10100/rtp/239.93.1.173:5140
 #EXTINF:-1 tvg-logo="" tvg-id="81" tvg-name="CETV1" group-title="CCTV",CETV1
 http://192.168.6.1:10100/rtp/239.93.1.111:5140
@@ -110,7 +110,7 @@ http://192.168.6.1:10100/rtp/239.93.0.83:5140
 http://192.168.6.1:10100/rtp/239.93.0.82:5140
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" tvg-id="62" tvg-name="甘肃卫视" group-title="卫视",甘肃卫视
 http://192.168.6.1:10100/rtp/239.93.0.81:5140
-#EXTINF:-1 tvg-logo="" tvg-id="63" tvg-name="海南卫视" group-title="卫视",海南卫视
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" tvg-id="63" tvg-name="旅游卫视" group-title="卫视",旅游卫视
 http://192.168.6.1:10100/rtp/239.93.0.90:5140
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-id="64" tvg-name="辽宁卫视" group-title="卫视",辽宁卫视
 http://192.168.6.1:10100/rtp/239.93.1.108:5140
@@ -162,7 +162,7 @@ http://192.168.6.1:10100/rtp/239.93.0.22:1252
 http://192.168.6.1:10100/rtp/239.93.1.112:5140
 #EXTINF:-1 tvg-logo="" tvg-id="83" tvg-name="熊猫体娱专区" group-title="四川",熊猫体娱专区
 http://192.168.6.1:10100/rtp/239.93.0.94:5140
-#EXTINF:-1 tvg-logo="" tvg-id="84" tvg-name="熊猫少儿专区" group-title="四川",熊猫少儿专区
+#EXTINF:-1 tvg-logo="" tvg-id="84" tvg-name="熊猫14专区" group-title="四川",熊猫14专区
 http://192.168.6.1:10100/rtp/239.93.1.189:5140
 #EXTINF:-1 tvg-logo="" tvg-id="85" tvg-name="熊猫影院专区" group-title="四川",熊猫影院专区
 http://192.168.6.1:10100/rtp/239.93.0.214:5140
@@ -216,7 +216,7 @@ http://192.168.6.1:10100/rtp/239.93.0.5:5140
 http://192.168.6.1:10100/rtp/239.93.0.251:5140
 #EXTINF:-1 tvg-logo="" tvg-id="110" tvg-name="宝宝动画专区" group-title="其他",宝宝动画专区
 http://192.168.6.1:10100/rtp/239.93.42.89:5140
-#EXTINF:-1 tvg-logo="" tvg-id="111" tvg-name="少儿动画专区" group-title="其他",少儿动画专区
+#EXTINF:-1 tvg-logo="" tvg-id="111" tvg-name="14动画专区" group-title="其他",14动画专区
 http://192.168.6.1:10100/rtp/239.93.0.193:9000
 #EXTINF:-1 tvg-logo="" tvg-id="112" tvg-name="青春动漫专区" group-title="其他",青春动漫专区
 http://192.168.6.1:10100/rtp/239.93.0.146:5140
@@ -266,7 +266,7 @@ http://192.168.6.1:10100/rtp/239.93.1.165:5140
 http://192.168.6.1:10100/rtp/239.93.0.14:5140
 #EXTINF:-1 tvg-logo="" tvg-id="145" tvg-name="都市剧场" group-title="其他",都市剧场
 http://192.168.6.1:10100/rtp/239.93.42.30:5140
-#EXTINF:-1 tvg-logo="" tvg-id="150" tvg-name="少儿天地专区" group-title="其他",少儿天地专区
+#EXTINF:-1 tvg-logo="" tvg-id="150" tvg-name="14天地专区" group-title="其他",14天地专区
 http://192.168.6.1:10100/rtp/239.93.42.34:5140
 #EXTINF:-1 tvg-logo="" tvg-id="154" tvg-name="求索频道" group-title="其他",求索频道
 http://192.168.6.1:10100/rtp/239.93.42.24:5140
