@@ -127,7 +127,7 @@ def generateM3U8(file):
                 continue
 
             if "ct" in c:
-                line = '#EXTINF:-1 tvg-logo="%s" tvg-id="%s" tvg-name="%s" group-title="%s",%s\n' % (c["icon"], c["id"], c["name"], k, c["name"])
+                line = '#EXTINF:-1 tvg-logo="%s" tvg-id="%s" tvg-name="%s" group-title="%s",%s\n' % (c["icon"], c["name"], c["name"], k, c["name"])
                 line2 = homeLanAddress + '/rtp/' + c["address"] + "\n"
             else:
                 line = '#EXTINF:-1 tvg-id="%s" tvg-name="%s" group-title="%s",%s\n' % (getID(), c["name"], k, c["name"])
