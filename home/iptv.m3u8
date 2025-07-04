@@ -1,4 +1,4 @@
-#EXTM3U name="成都电信IPTV - 2025-07-03T03:18:42Z" url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
+#EXTM3U name="成都电信IPTV - 2025-07-04T03:17:24Z" url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-id="CCTV1" tvg-name="CCTV1" group-title="CCTV",CCTV1
 http://192.168.6.1:10100/rtp/239.93.0.184:5140
@@ -178,8 +178,6 @@ http://192.168.6.1:10100/rtp/239.93.0.214:5140
 http://192.168.6.1:10100/rtp/239.93.0.211:9148
 #EXTINF:-1 tvg-logo="" tvg-id="金熊猫卡通专区" tvg-name="金熊猫卡通专区" group-title="四川",金熊猫卡通专区
 http://192.168.6.1:10100/rtp/239.93.1.172:5140
-#EXTINF:-1 tvg-logo="" tvg-id="熊猫24小时专区" tvg-name="熊猫24小时专区" group-title="四川",熊猫24小时专区
-http://192.168.6.1:10100/rtp/239.93.1.178:5140
 #EXTINF:-1 tvg-logo="" tvg-id="i成都" tvg-name="i成都" group-title="四川",i成都
 http://192.168.6.1:10100/rtp/239.93.1.104:1234
 #EXTINF:-1 tvg-logo="" tvg-id="四川省首届“蜀乡村歌”大赛总决赛" tvg-name="四川省首届“蜀乡村歌”大赛总决赛" group-title="四川",四川省首届“蜀乡村歌”大赛总决赛
@@ -268,8 +266,6 @@ http://192.168.6.1:10100/rtp/239.93.0.129:5140
 http://192.168.6.1:10100/rtp/239.93.0.195:8012
 #EXTINF:-1 tvg-logo="" tvg-id="蓉城先锋专区" tvg-name="蓉城先锋专区" group-title="其他",蓉城先锋专区
 http://192.168.6.1:10100/rtp/239.93.0.91:2101
-#EXTINF:-1 tvg-logo="" tvg-id="星空精选专区" tvg-name="星空精选专区" group-title="其他",星空精选专区
-http://192.168.6.1:10100/rtp/239.93.1.171:5140
 #EXTINF:-1 tvg-logo="" tvg-id="东方财经" tvg-name="东方财经" group-title="其他",东方财经
 http://192.168.6.1:10100/rtp/239.94.1.59:5140
 #EXTINF:-1 tvg-logo="" tvg-id="4K视界专区" tvg-name="4K视界专区" group-title="其他",4K视界专区
@@ -302,8 +298,6 @@ http://192.168.6.1:10100/rtp/239.93.0.114:5140
 http://192.168.6.1:10100/rtp/239.93.1.179:5140
 #EXTINF:-1 tvg-logo="" tvg-id="亲子趣学4k专区" tvg-name="亲子趣学4k专区" group-title="其他",亲子趣学4k专区
 http://192.168.6.1:10100/rtp/239.93.1.191:5140
-#EXTINF:-1 tvg-logo="" tvg-id="中录动漫4K专区" tvg-name="中录动漫4K专区" group-title="其他",中录动漫4K专区
-http://192.168.6.1:10100/rtp/239.93.1.188:5140
 #EXTINF:-1 tvg-logo="" tvg-id="4K乐享超清专区" tvg-name="4K乐享超清专区" group-title="其他",4K乐享超清专区
 http://192.168.6.1:10100/rtp/239.93.0.43:5140
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg" tvg-id="书画频道" tvg-name="书画频道" group-title="其他",书画频道
@@ -318,8 +312,6 @@ http://192.168.6.1:10100/rtp/239.93.42.96:5140
 http://192.168.6.1:10100/rtp/239.93.42.66:5140
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" tvg-id="四海钓鱼" tvg-name="四海钓鱼" group-title="其他",四海钓鱼
 http://192.168.6.1:10100/rtp/239.93.0.55:5140
-#EXTINF:-1 tvg-logo="" tvg-id="魅力足球" tvg-name="魅力足球" group-title="其他",魅力足球
-http://192.168.6.1:10100/rtp/239.93.42.97:5140
 #EXTINF:-1 tvg-logo="" tvg-id="动漫秀场" tvg-name="动漫秀场" group-title="其他",动漫秀场
 http://192.168.6.1:10100/rtp/239.93.42.93:5140
 #EXTINF:-1 tvg-logo="" tvg-id="精彩影视" tvg-name="精彩影视" group-title="其他",精彩影视
