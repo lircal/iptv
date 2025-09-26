@@ -1,4 +1,4 @@
-#EXTM3U name="成都电信IPTV - 2025-09-25T02:59:49Z" url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
+#EXTM3U name="成都电信IPTV - 2025-09-26T02:58:11Z" url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-id="CCTV1" tvg-name="CCTV1" group-title="CCTV",CCTV1
 http://192.168.6.3:10337/rtp/239.94.0.31:5140
@@ -50,6 +50,24 @@ http://192.168.6.3:10337/rtp/239.94.1.65:5140
 http://192.168.6.3:10337/rtp/239.94.1.66:5140
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视",四川卫视
 http://192.168.6.3:10337/rtp/239.94.0.59:5140
+#EXTINF:-1 tvg-logo="" tvg-id="四川卫视4K" tvg-name="四川卫视4K" group-title="卫视",四川卫视4K
+http://192.168.6.3:10337/rtp/239.94.0.115:5140
+#EXTINF:-1 tvg-logo="" tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" group-title="卫视",湖南卫视4K
+http://192.168.6.3:10337/rtp/239.94.0.116:5140
+#EXTINF:-1 tvg-logo="" tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" group-title="卫视",江苏卫视4K
+http://192.168.6.3:10337/rtp/239.94.0.117:5140
+#EXTINF:-1 tvg-logo="" tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" group-title="卫视",浙江卫视4K
+http://192.168.6.3:10337/rtp/239.94.0.118:5140
+#EXTINF:-1 tvg-logo="" tvg-id="东方卫视4K" tvg-name="东方卫视4K" group-title="卫视",东方卫视4K
+http://192.168.6.3:10337/rtp/239.94.0.119:5140
+#EXTINF:-1 tvg-logo="" tvg-id="北京卫视4K" tvg-name="北京卫视4K" group-title="卫视",北京卫视4K
+http://192.168.6.3:10337/rtp/239.94.0.112:5140
+#EXTINF:-1 tvg-logo="" tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" group-title="卫视",深圳卫视4K
+http://192.168.6.3:10337/rtp/239.94.0.113:5140
+#EXTINF:-1 tvg-logo="" tvg-id="广东卫视4K" tvg-name="广东卫视4K" group-title="卫视",广东卫视4K
+http://192.168.6.3:10337/rtp/239.94.0.114:5140
+#EXTINF:-1 tvg-logo="" tvg-id="山东卫视4K" tvg-name="山东卫视4K" group-title="卫视",山东卫视4K
+http://192.168.6.3:10337/rtp/239.94.0.120:5140
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视",湖南卫视
 http://192.168.6.3:10337/rtp/239.94.0.61:5140
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视",江苏卫视
@@ -128,12 +146,6 @@ http://192.168.6.3:10337/rtp/239.94.0.110:5140
 http://192.168.6.3:10337/rtp/239.94.0.82:5140
 #EXTINF:-1 tvg-logo="" tvg-id="北京卫视4K" tvg-name="北京卫视4K" group-title="卫视",北京卫视4K
 http://192.168.6.3:10337/rtp/239.94.0.111:5140
-#EXTINF:-1 tvg-logo="" tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" group-title="卫视",深圳卫视4K
-http://192.168.6.3:10337/rtp/239.94.0.113:5140
-#EXTINF:-1 tvg-logo="" tvg-id="广东卫视4K" tvg-name="广东卫视4K" group-title="卫视",广东卫视4K
-http://192.168.6.3:10337/rtp/239.94.0.114:5140
-#EXTINF:-1 tvg-logo="" tvg-id="北京卫视4K" tvg-name="北京卫视4K" group-title="卫视",北京卫视4K
-http://192.168.6.3:10337/rtp/239.94.0.112:5140
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" tvg-id="CDTV1" tvg-name="CDTV1" group-title="四川",CDTV1
 http://192.168.6.3:10337/rtp/239.94.0.154:5140
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" tvg-id="SCTV2" tvg-name="SCTV2" group-title="四川",SCTV2
@@ -256,6 +268,8 @@ http://192.168.6.3:10337/rtp/239.94.1.52:5140
 http://192.168.6.3:10337/rtp/239.94.1.53:5140
 #EXTINF:-1 tvg-logo="" tvg-id="地理专区" tvg-name="地理专区" group-title="其他",地理专区
 http://192.168.6.3:10337/rtp/239.94.1.54:5140
+#EXTINF:-1 tvg-logo="" tvg-id="看天下精选专区" tvg-name="看天下精选专区" group-title="其他",看天下精选专区
+http://192.168.6.3:10337/rtp/239.94.1.68:5140
 #EXTINF:-1 tvg-logo="" tvg-id="导视专区" tvg-name="导视专区" group-title="其他",导视专区
 http://192.168.6.3:10337/rtp/239.94.1.55:5140
 #EXTINF:-1 tvg-logo="" tvg-id="收视指南专区" tvg-name="收视指南专区" group-title="其他",收视指南专区
@@ -266,6 +280,10 @@ http://192.168.6.3:10337/rtp/239.94.1.57:5140
 http://192.168.6.3:10337/rtp/239.94.1.59:5140
 #EXTINF:-1 tvg-logo="" tvg-id="4K视界专区" tvg-name="4K视界专区" group-title="其他",4K视界专区
 http://192.168.6.3:10337/rtp/239.94.1.60:5140
+#EXTINF:-1 tvg-logo="" tvg-id="4K纪实专区" tvg-name="4K纪实专区" group-title="其他",4K纪实专区
+http://192.168.6.3:10337/rtp/239.94.1.69:5140
+#EXTINF:-1 tvg-logo="" tvg-id="4K14专区" tvg-name="4K14专区" group-title="其他",4K14专区
+http://192.168.6.3:10337/rtp/239.94.1.70:5140
 #EXTINF:-1 tvg-logo="" tvg-id="都市剧场" tvg-name="都市剧场" group-title="其他",都市剧场
 http://192.168.6.3:10337/rtp/239.94.1.133:5140
 #EXTINF:-1 tvg-logo="" tvg-id="14天地专区" tvg-name="14天地专区" group-title="其他",14天地专区
