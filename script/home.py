@@ -128,13 +128,16 @@ def generateM3U8(file):
 
             if "ct" in c:
                 line = '#EXTINF:-1 tvg-logo="%s" tvg-id="%s" tvg-name="%s" group-title="%s",%s\n' % (c["icon"], c["name"], c["name"], k, c["name"])
-                line2 = homeLanAddress + '/rtp/' + c["address"] + "\n"
+                line2 = homeLanAddress + '/rtp/' + c["address1"] + "\n"
+                line3 = c["address2"] + "\n"
             else:
                 line = '#EXTINF:-1 tvg-id="%s" tvg-name="%s" group-title="%s",%s\n' % (getID(), c["name"], k, c["name"])
-                line2 = c["address"] + "\n"
+                line2 = c["address1"] + "\n"
+                line3 = c["address2"] + "\n"
 
             file.write(line)
             file.write(line2)
+            file.write(line3)
 
     file.close()
     print("Build m3u8 success.")
@@ -180,7 +183,7 @@ for tr in soup.find_all(name='tr'):
 
     setID(int(td[0].string))
 
-    name = name.replace('超高清', '').replace('高清', '').replace('-', '').replace('少儿', '14').replace('＋', '+').replace('海南', '旅游').strip()
+    name = name.replace('4K', '').replace('超高清', '').replace('高清', '').replace('-', '').replace('少儿', '14').replace('＋', '+').replace('海南', '旅游').strip()
 
     group = filterCategory(name)
     icon = findIcon(mIcons, name)
@@ -188,7 +191,7 @@ for tr in soup.find_all(name='tr'):
     if group not in m:
         m[group] = []
 
-    m[group].append({"id": td[0].string, "name": name, "address": td[2].string, "ct": True, "icon": icon})
+    m[group].append({"id": td[0].string, "name": name, "address1": td[2].string, "address2": td[6].string, "ct": True, "icon": icon})
 
 
 #appendOnlineIptvFromTvbox(m)
